@@ -1,0 +1,4 @@
+Abu Resolusi
+- Konsisten buat slicing project 2x seminggu
+- Mahir git & github
+- Mulai masuk belajar framework javascript react
