@@ -1,6 +1,8 @@
 RENCANA KONTENT ABU
 
 -JAVASCRIPT
+  *ES6
+  *Frameworl javascript
 -PHP
 -INTERVIEW
 -VLOG
